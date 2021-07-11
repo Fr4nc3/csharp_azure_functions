@@ -1,6 +1,6 @@
 # csharp_azure_functions
 
-Azure Functions using C# Core .Net 5
+Azure Functions using C# Core .Net 3.1
 
 Solution name AzureFunctions
 open project and build no error or warning
