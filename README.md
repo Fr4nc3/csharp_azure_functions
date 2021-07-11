@@ -14,36 +14,38 @@ open project and build no error or warning
 
 ## Azure List functions
 
-ConvertionJobStatus
-ConvertionJobStatusById
-DeleteImagesTimer
-ImageConsumerGreyScale
-ImageConsumerSepia
-ImagesStatusUpdaterFailed
-ImagesStatusUpdaterSuccess
+- ConvertionJobStatus
+- ConvertionJobStatusById
+- DeleteImagesTimer
+- ImageConsumerGreyScale
+- ImageConsumerSepia
+- ImagesStatusUpdaterFailed
+- ImagesStatusUpdaterSuccess
 
 ## Files
 
 - Common
-  ConfigSettings
-  LoggingEvents
+
+  - ConfigSettings
+  - LoggingEvents
 
 - DTO
-  ErrorResponse
-  ImageCOnvertionMode
-  JobDto
-  JobStatusDescription
+
+  - ErrorResponse
+  - ImageCOnvertionMode
+  - JobDto
+  - obStatusDescription
 
 - Models
-  Enum
-  JObEntity
-  JobTable
-- Services
-  ImageConvertionService
+  - Enum
+  - JObEntity
+    JobTable
+  - Services
+  - ImageConvertionService
 
 ## local settings
 
-```
+```JSON
 {
 "IsEncrypted": false,
 "Values": {
