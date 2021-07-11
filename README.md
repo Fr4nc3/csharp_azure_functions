@@ -49,7 +49,7 @@ open project and build no error or warning
 {
 "IsEncrypted": false,
 "Values": {
-"AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=demo-fr2021;AccountKey=gy7bS44aTcPQgL0HmEwo1AMBJSi/0xHPZX0DsBUQHiTNMMeAYyn65UgXGPiL8O5usnv4LnOK8aKAVwFmbfzW+Q==;BlobEndpoint=https://demo-fr2021.blob.core.windows.net/;TableEndpoint=https://demo-fr2021.table.core.windows.net/;QueueEndpoint=https://demo-fr2021.queue.core.windows.net/;FileEndpoint=https://demo-fr2021.file.core.windows.net/",
+"AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=demo-fr2021;AccountKey=KEY;BlobEndpoint=https://demo-fr2021.blob.core.windows.net/;TableEndpoint=https://demo-fr2021.table.core.windows.net/;QueueEndpoint=https://demo-fr2021.queue.core.windows.net/;FileEndpoint=https://demo-fr2021.file.core.windows.net/",
 "FUNCTIONS_WORKER_RUNTIME": "dotnet"
 }
 }
